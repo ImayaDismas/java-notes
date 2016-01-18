@@ -16,6 +16,7 @@
  >>sets any input given into a variable specified as private at declaration
   
  #####getters
+ 
  >>returns the value that was stored in the private variable
  
  >>System.ut.printf - use %s to fetch a stored variable.
@@ -26,4 +27,10 @@
  >>Costructor name has the same name as the class name.
  
  >>Objects enable one to pass a different set of variables.(same constructor but several objects)
+ 
+ 
+###Nested If Statements and If else 
+
+>>Provides Java with a way of making one choice or many choices
+>>Nested If statement has an embedded if else statement.
  
