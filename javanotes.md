@@ -20,4 +20,10 @@
  
  >>System.ut.printf - use %s to fetch a stored variable.
  
+ ###Constructors
+ 
+ >>Allows one to initalize a variable as soon as you create an object.
+ >>Costructor name has the same name as the class name.
+ 
+ >>Objects enable one to pass a different set of variables.(same constructor but several objects)
  
