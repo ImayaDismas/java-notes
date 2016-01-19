@@ -60,3 +60,42 @@
  
  >>A=P(1+r)^n
  >>Use a for loop to loop through the years.
+ 
+ ###do while loops
+ 
+ >>
+ 
+ ###Math Class Methods
+ 
+ 
+ ###Raandom Number Generator
+ 
+ ###Introduction to Arrays
+ 
+ ###Creating an Array Table
+ 
+ ###Summing Elements of Arrays
+ 
+ ###Array Elements as Counters
+ 
+ ###Enhanced for Loops
+ 
+ ###Arrays in Methods
+ 
+ ###Multidimensional Arrays
+ 
+ ###Table for Multiple Arrays
+ 
+ ###Variable Length Arguments
+ 
+ ###Time Class
+ 
+ ###Display Regular Time
+ 
+ ###Public, Private, and this
+ 
+ ###Set and Get Methods
+ 
+ ###Building Objects for Constructors.
+ 
+ 
