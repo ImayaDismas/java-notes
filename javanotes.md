@@ -47,3 +47,11 @@
  >> eg age>50? "You are young" : "You are old."
  
  ###Simple Avearging Program
+ 
+ >>Input 10n numbers and calculate the average.
+ >>use while loop to scan the 10 numbers.
+ 
+ ###for loops
+ 
+ >>takes three statement/ keyword *where to start, end and an increment by?*
+ >> for instance if the end is 10, the loop will execute 11 times
