@@ -34,3 +34,16 @@
 >>Provides Java with a way of making one choice or many choices
 >>Nested If statement has an embedded if else statement.
  
+ 
+ ###Else If Statement
+ 
+ >>Enables java to have an alternative options apart from the first one
+ >>If allows only one option
+ 
+ ###Conditional Operator
+ 
+ >>is another way of implementing an else if statement
+ >>Compact and small
+ >> eg age>50? "You are young" : "You are old."
+ 
+ ###Simple Avearging Program
