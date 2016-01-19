@@ -55,3 +55,8 @@
  
  >>takes three statement/ keyword *where to start, end and an increment by?*
  >> for instance if the end is 10, the loop will execute 11 times
+ 
+ ###Compound Interest
+ 
+ >>A=P(1+r)^n
+ >>Use a for loop to loop through the years.
