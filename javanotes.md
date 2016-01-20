@@ -63,16 +63,37 @@
  
  ###do while loops
  
- >>
+ >>Execute the body at least once before a test condition.
+ format
+        
+        do {
+        
+          counter++;
+          
+        }while(counter <=10);
+ 
  
  ###Math Class Methods
  
+ >>Methods in math class
+>>Math.pow - power of a number eg pow(5,3) 5^3
+>>Math.abs(-21.9) - absolute value;haow far from zero
+ >>Math.ceil - Rounds up a number eg 7.4 =8.0 
+ >>Math.floor - rounds down
+ >>Math.max -two numbers and returns the maximum
+ >> Math.min  -minimum of the two
+ >>Math.sqrt - square root of a number
  
- ###Raandom Number Generator
+ ###Random Number Generator
+
+>>import java.util.Random
  
  ###Introduction to Arrays
+ >>a variable that can store a banch of related data types
+ >>store values of the same data type
  
  ###Creating an Array Table
+ 
  
  ###Summing Elements of Arrays
  
