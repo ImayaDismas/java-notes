@@ -93,30 +93,48 @@
  >>store values of the same data type
  
  ###Creating an Array Table
- 
+  
+  >>Array has an idex and the corresponding value that is stored
  
  ###Summing Elements of Arrays
  
+ >>Summing the elements of the array using a for loop
+ 
  ###Array Elements as Counters
+ 
+ >>Take array elements and store them as counters.
  
  ###Enhanced for Loops
  
- ###Arrays in Methods
+ >>Only takes two parameters; Variable that takes the value of the array as on loops through the array.
+ >>The second parameter is the name of the array, to specify the array that is being talked about.
  
  ###Multidimensional Arrays
  
+ >>Used when one want to make a table or something that require coordinates. Two square brackets; one for rows and the other one for columns.
+ 
  ###Table for Multiple Arrays
+ 
+ >>Creating a table using the multi-dimensional array. This is done using two for loops.
  
  ###Variable Length Arguments
  
+ >>Method without knowing how many arguments it takes MethodName(int...nameofthevariable)
+ >>the dots means you dont know how many arguments it takes
+ 
  ###Time Class
  
- ###Display Regular Time
+ >> time class has a bunch of different time functions and can convert it into military or regular time
+ 
+
  
  ###Public, Private, and this
  
- ###Set and Get Methods
+ >>used to control access of variables.
+ >>Private can be accessed in th class in which it is defined.
+ >>Visible to all the classes in the same program.
  
  ###Building Objects for Constructors.
- 
+ >>Constructor is a  with the same name as the class.
+ >>Can build multiple constructors depending on the number of arguments.
  
